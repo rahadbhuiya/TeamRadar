@@ -4,7 +4,7 @@
   "version": "${version}",
   "name": "TeamRadar",
   "description": "Real-time HUD showing teammate health, distance, direction, dimension and death alerts.",
-  "authors": ["You"],
+  "authors": ["rahadbhuiya"],
   "license": "MIT",
   "environment": "client",
   "entrypoints": {
